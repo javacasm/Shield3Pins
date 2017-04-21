@@ -7,7 +7,7 @@ Cada vez existen más placas de Arduino que incluyen este tipo de pines
 
 [Iteaduino UNO 6,40$](https://www.itead.cc/iteaduino-uno.html)
 
-![iteaduino](https://lh3.googleusercontent.com/RCG30uUvze4OBGdrOsmcrg2IQ66GBotZqpczPMFm4FA_Esjd46mKZSLQ4WN6TOvM-zuNLkrsc8jwpJEHMEqxUVUECGVCQzOPtOtNbcB05cTenTCpcPWvssvw1CXCes1Ks1X21wxxyiBQlBtorOmW0SX-08v6TwIsDkRva0NIYxfkDitqPUJGmFT1XeCGlVSxzoRbrjKsJFBK7H8F4A6laFhPXtmXxcP7v78Q9ASEOXew-lfc49vYSRS3xVfvzCPK3hGnMdlvZSRLYZ3O1_LsvbXommLz7p7-jCjYLgkrv6E2Jdc9_0XfwZOmB_jzRDobGLP1J-JJALTBOJYMATEifamIknZ7gW8ouOnMaXEb-pdDUSDKXpoMMN2yZBVMpESan7vN-9wqEYvYjiV_EOUqM0A-FExmLnKN5jjuDia20Z5rXP9qrOax3EdZuhwD9ahm4yD4RRPvVb45wcc--DDDnGQhtGsOFbcn5GIhmBDsJWOb3MAOqJVpB0yMCRUMucaOc5pmOgE0bAynCX7LvFwCgfxfKdgmuvFypzpla5dXul9Bc4jyZ_KZ2xVwqa3TrnISUcETs9Rv=s1262-w1262-h934-no)
+![iteaduino](https://lh3.googleusercontent.com/zpXFGgI_Dits0_W0uZ3AJ-sldpTMvVqmAzj0MNuXrQj5MZBNowN5sIM-BpFP5cj5Y6EIe0xY95KmbljvUGQQNGi42WCA3pCBNF0FjPB34Hb_8LxSqoPss8f1tJ4ZYj0NwCqto02rfU6cCUlB4tQLxCqgfoYOl_WZkKOTbqPSLcug-_m0uxmk7oCj3FjwP2VrMrefF_MhRKy0TvQ5x0ux1B8TDt5YUNkYFqD1ae1zgdtU3NZrcUEhDgAgOBybbFR12PKMNeFrFzOpWVD_3rH1b2qxJSVazsTJ7CGdFX7UHf-jsTeezQ9tEdjkZSGqHs-F0ahddAWlFv7jDghtaL4ftsb38dZSvCTez-yhn5v_vAOge6NbuOl1-kVqtRwwsM74G8MYPf8HSFDdhCO-5-3_lI0EnWW1fZo7L0xShN-5HBJp9nNL853L8nTmifk2Iv7NlZSk7B3CILoHeMk9I75buk9uzc0JGFoJwcpCX_pJJfsI8YGGM7bCS2pDg7GiQDY_amvm_qA30UJPMEK8_lCroHFhi3hbNBsbkAgo1TjjX89nHmyVu-Or9bjIHBgMz9zr4MHIMiCj=s1262-w1262-h934-no)
 
 [ICStation Atmega328P Uno 9,75$ ](http://www.icstation.com/icstation-atmega328p-board-compatible-arduino-p-3746.html)
 
@@ -32,3 +32,5 @@ Cada vez existen más placas de Arduino que incluyen este tipo de pines
 ![pcb](http://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/cZYAAOSw~gRV6FPr/$_12.JPG)
 
 [PCB en aliexpress](https://es.aliexpress.com/store/product/Universal-Breadboard-400-point-MW-201-Solderless-Prototype-Bread-board-PCB-for-arduino-raspberry-pi-2/1270976_32398566022.html)
+
+[Más placas: stripboards](https://es.aliexpress.com/wholesale?SearchText=stripboard)
